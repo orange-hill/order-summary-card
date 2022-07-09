@@ -1,4 +1,4 @@
-# Order Summary Card
+# Order Summary Component
 
 
 
