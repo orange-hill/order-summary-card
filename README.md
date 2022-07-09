@@ -1,4 +1,4 @@
-# Order Summary Component
+# Order Summary Card
 
 
 
@@ -19,7 +19,7 @@ Your users should be able to:
 ### Screenshot 
 ![](./img/screenshot_order.jpg) 
 
-#### [Live Site](https://orange-hill.github.io/order-summary-component/)
+#### [Live Site](https://orange-hill.github.io/order-summary-card/)
 
 
 <br>
