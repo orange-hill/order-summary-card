@@ -74,11 +74,11 @@ button {
 }
 
 .order img {
-    margin: 0 1rem;
+    margin: 0 1.5rem;
 }
 
 .order .price {
-    margin-right: 5rem;
+    margin-right: 4rem;
     line-height: 1.7rem;
 }
 
