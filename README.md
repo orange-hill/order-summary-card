@@ -19,7 +19,7 @@ Your users should be able to:
 ### Screenshot 
 ![](./img/screenshot_order.jpg) 
 
-#### [Live Site](https://orange-hill.github.io/order-summary-card/)
+#### [Live Site](https://orange-hill.github.io/order-summary-component/)
 
 
 <br>
